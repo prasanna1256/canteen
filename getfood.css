@@ -1,0 +1,33 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+margin-left: 5pzx;
+
+font-weight: bold;
+
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 23px;
+    margin-left: 5px;
+    color: aliceblue;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+
+}
+img{
+    height: 245px;
+    width: 235px;
+    border-radius: 13px;
+}
+    .contain{
+        background-color: rgb(26, 206, 26);
+        padding: 10px;
+        margin: 10px;
+        border-radius: 13px;
+        box-shadow: 0 0 10px black;
+    }
+.contain:hover{
+    background-color: rgb(191, 197, 104);
+}

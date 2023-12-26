@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+
+}
+.add-food{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+button:hover{
+    background-color: green;
+}

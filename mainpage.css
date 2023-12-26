@@ -1,0 +1,49 @@
+.body{
+    height: 100vh;
+    background-image: url('home.jpg');
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-size:cover;
+   
+    
+}
+.div-container{
+    width: 40vw;
+    height: 30vh;
+    background-image: url('https://www.shutterstock.com/image-vector/food-drink-tag-plane-travel-600nw-2337020985.jpg');
+    background-size: cover;
+    border-radius: 15px;
+    
+    text-align: center;
+    box-shadow:0 0 10px black;
+    padding: 50px;
+
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(146, 201, 233);
+    text-align:start;
+    text-shadow: darkslategrey;
+    font-size: 40px;
+}
+button{
+    padding: 13px;
+    border-radius: 10px;
+    width: 140px;
+    background-color: lavender;
+    color:black;
+    font-family: cursive;
+    font-size: 18px;
+    border-width: 2px;
+    margin-top: 30px;
+    margin-right:20px ;
+}
+button:hover{
+    background-color: green;
+}
+p{
+    font-family: cursive;
+    color: rgb(121, 167, 100);
+}
+
